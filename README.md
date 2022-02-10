@@ -2,4 +2,4 @@
 
 
 # Chondrules from outer space
-This repository contains [Jupyter](https://jupyter.org/) notebooks to look at and fiddle with the tomographic scans we performed for the [National Centre of Competence in Research PlanetShttp://nccr-planets.ch/).
+This repository contains [Jupyter](https://jupyter.org/) notebooks to look at and fiddle with the tomographic scans we performed for the [National Centre of Competence in Research PlanetS](http://nccr-planets.ch/).
